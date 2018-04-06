@@ -1,1 +1,2 @@
-# Mendes_trab_01
+# 
+Funcionamento do programa NotaVF :
